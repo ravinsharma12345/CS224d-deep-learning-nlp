@@ -26,5 +26,5 @@ So my game plan was to get enough python knowledge and math knowledge to success
 
 
 Learning Math
-- The math part of this course is the troublesome part. I realize I need some sort of strategy to tackle the maths needed for this subject. My first instinct to follow a knowledge tree. I saw a knowledge tree for linear algebra form the book "No Bullshit Guide to Linear Algebra" ![Something](https://google.com)
+- The math part of this course is the troublesome part. I realize I need some sort of strategy to tackle the maths needed for this subject. My first instinct to follow a knowledge tree. I saw a knowledge tree for linear algebra form the book "No Bullshit Guide to Linear Algebra".
 
